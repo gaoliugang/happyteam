@@ -1,4 +1,4 @@
 # happyteam
 Fast development framework with java  
 
-# Install Guide
+## Install Guide
