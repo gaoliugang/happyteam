@@ -1,5 +1,5 @@
 # happyteam
-Fast development framework with java  
+史上最牛B的JAVA快速开发平台，集成了vue.js, Spring Boot, Npm, webpack
 
 ## 
 
